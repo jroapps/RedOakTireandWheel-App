@@ -1,0 +1,7 @@
+{
+  "name": "tech.jroapps.redoaktireandwheel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+    color: #660000 !important;
+}
+.h1-black {
+    text-align: center;
+    font-size: 45px;
+    color: black !important;
+}
+p {
+    text-align: center;
+    font-size: 25px !important;
+}
+.p-left {
+    text-align: left;
+    font-size: 20px !important;
+    padding-left: 10px;
+}
+.p-primary {
+    color: #660000;
+}
+.p-black {
+    color: black;
+}
+u {
+    color: #924c81 !important;
+}
+.card-color-primary {
+    background-color: #660000 !important;
+    color: white !important;
+}
+.card-color-white {
+    background-color: white !important;
+    color: black !important;
+}
+.card-title-white {
+    color: #660000;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.card-title-primary {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.ion-button-login {
+    display: block;
+}
